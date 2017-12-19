@@ -29,5 +29,4 @@
 		// no head yet, stick it whereever
 		document.documentElement.appendChild(node);
 	}
-}
 })();
